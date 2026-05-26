@@ -20,7 +20,3 @@ Este projeto foi desenvolvido como parte do **Tech Challenge - Fase 4** da pós-
 * `colunas_modelo_imc.pkl`: Ordem das variáveis esperadas pelo modelo.
 * `requirements.txt`: Lista de dependências para o deploy.
 * `Analise_Exploratoria.ipynb`: Notebook com todo o processo de ETL e treinamento.
-
-## 🛠️ Como executar
-1. Instale as dependências: `pip install -r requirements.txt`
-2. Execute o app: `streamlit run app.py`
