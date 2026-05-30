@@ -1,0 +1,9 @@
+Github
+https://github.com/daniellv87/tc4-predicao-obesidade-grupo10
+
+Streamlit
+https://tc4-predicao-obesidade-grupo10-aprhyv3wkx3yxt3ozvqmsm.streamlit.app/
+
+PowerBi
+
+https://app.powerbi.com/view?r=eyJrIjoiM2M0N2JjODgtMDIwMy00MDc0LWI1ZTAtODU4ODUzZTczZDc5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
